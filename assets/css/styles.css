@@ -132,3 +132,65 @@ section.banner{
 }
 
 /* Fin Banner Section */
+
+/* Acerda de Section */
+
+.section-padding{
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.section-title{
+    margin-left: 2rem;
+}
+
+.about-item{
+    margin-left: 2rem;
+}
+
+.section-subtitle{
+    color: var(--dark-brown);
+    font-size: var(--header-2);
+    font-weight: var(--font-weight-semi-bold);
+}
+
+.section-main-title{
+    color: var(--primary-light);
+    font-size: var(--header-4);
+    font-weight: var(--font-weight-regular);
+    line-height: 74px;
+}
+
+.about-text{
+    color: var(--gray-1);
+    font-size: var(--text-regular);
+    font-weight: var(--font-weight-regular);
+    line-height: 31px;
+}
+
+.col-sm-4{
+    margin-left: 1rem;
+}
+
+.about-box {
+    box-shadow: 0 0 0 10px var(--dark-brown) inset;
+    margin-right: 0;
+    margin-top: 0;
+    position: relative;
+    display: block;
+}
+
+.about-box img {
+    transform: translateY(15px) translateX(-15px);
+    width: 100%;
+    z-index: 1;
+}
+
+/* Seccion Experiencia */
+
+.experience-text{
+    color: var(--gray-1);
+    font-size: var(--text-regular);
+    font-weight: var(--font-weight-regular);
+    line-height: 31px;
+}
