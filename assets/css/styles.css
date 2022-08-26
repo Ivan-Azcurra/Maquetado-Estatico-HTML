@@ -186,11 +186,21 @@ section.banner{
     z-index: 1;
 }
 
-/* Seccion Experiencia */
+/* Sección Experiencia */
 
 .experience-text{
     color: var(--gray-1);
     font-size: var(--text-regular);
     font-weight: var(--font-weight-regular);
     line-height: 31px;
+}
+
+/* Sección Educación */
+
+.education__card--title{
+    color: var(--primary);
+}
+
+.education__card--subtitle{
+    color: var(--primary-light);
 }
