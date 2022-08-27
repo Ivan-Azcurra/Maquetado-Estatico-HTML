@@ -37,6 +37,7 @@ body{
 
 /* Boton primario */
 
+
 .btn {
     padding: 10px 25px;
     border-radius: 6px;
@@ -203,4 +204,17 @@ section.banner{
 
 .education__card--subtitle{
     color: var(--primary-light);
+}
+
+/* Seccion Skills And Soft Skills */
+
+.bg-progress{
+    background-color: var(--primary)!important;
+}
+
+.bg-purple{
+    background: #800080!important;
+}
+.border-purple{
+    border-color:#800080!important;
 }
